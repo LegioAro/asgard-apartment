@@ -1,2 +1,2 @@
 # asgard-kvartiry
-https://legioaro.github.io/asgard-kvartiry/
+https://legioaro.github.io/asgard-apartment/
