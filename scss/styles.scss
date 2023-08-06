@@ -1,0 +1,34 @@
+//Global
+@import './global/fonts';
+@import './global/var';
+@import './global/reset';
+@import './global/global';
+
+//Moduls
+@import './moduls/title';
+@import './moduls/btn';
+@import './moduls/modal';
+@import './moduls/form';
+@import './moduls/review';
+
+//Blocks
+@import './blocks/block-1';
+@import './blocks/gtmpl--3-4';
+
+//Sections
+@import './sections/header';
+@import './sections/cover';
+@import './sections/about';
+@import './sections/info';
+@import './sections/map';
+@import './sections/info-2';
+@import './sections/info-3';
+@import './sections/complex';
+@import './sections/layouts';
+@import './sections/description';
+@import './sections/steps';
+@import './sections/advantages';
+@import './sections/gallery';
+@import './sections/payment';
+@import './sections/construction';
+@import './sections/footer';
